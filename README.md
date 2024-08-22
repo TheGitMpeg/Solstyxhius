@@ -1,4 +1,4 @@
-# Solstyxhius Notes
+# Solstyxhius fonts
 "Solstyxhius" name comes from the English Word "solstice", which means the
 time in which the planet poles are too inclined away from a star that orbits a-
 round it.
